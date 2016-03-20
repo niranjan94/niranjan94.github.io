@@ -1,4 +1,1 @@
-niranjan94.github.io
-====================
-
-> This is the source of my GitHub Userpage. No use to any of you ! ;-)
+Just an index.html file to redirect all users to [nrnjn.xyz](https://nrnjn.xyz).
