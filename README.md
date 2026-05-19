@@ -1,1 +1,1 @@
-Just an index.html file to redirect all users to [nrnjn.xyz](https://nrnjn.xyz).
+Just an index.html file to redirect all users to [niranjan.io](https://niranjan.io).
